@@ -2,9 +2,9 @@
 Last Updated: 2026-07-27
 
 ### Introduction
-This Privacy Policy describes how Jako Rostami, JR Labs ("we," "our," or "us") handles information when you use our mobile application, Lilla Högskoleprovet (the "App").
+This Privacy Policy describes how Jako Rostami, JR Labs ("we," "our," or "us") handles information when you use our mobile application, NursePro: NCLEX-RN (the "App").
 
-We care about your privacy. Lilla Högskoleprovet doesn't ask you to create an account or give your name, email, or phone number, and your study progress stays on your device. We run no servers for your data. The one exception is subscriptions: to sell, restore, and manage them, the app uses Apple, RevenueCat, and Superwall, which handle a limited amount of purchase and paywall information described below.
+We care about your privacy. NursePro: NCLEX-RN doesn't ask you to create an account or give your name, email, or phone number, and your study progress stays on your device. We run no servers for your data. The one exception is subscriptions: to sell, restore, and manage them, the app uses Apple, RevenueCat, and Superwall, which handle a limited amount of purchase and paywall information described below.
 
 ### Data Collection and Usage
 We don't collect any data that personally identifies you. 
