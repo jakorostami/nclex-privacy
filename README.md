@@ -1,0 +1,2 @@
+# nclex-privacy
+Privacy Policy
