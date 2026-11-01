@@ -1,5 +1,5 @@
 ## Privacy Policy
-Last Updated: 2026-07-27
+Last Updated: 2026-11-01
 
 ### Introduction
 This Privacy Policy describes how Jako Rostami, JR Labs ("we," "our," or "us") handles information when you use our mobile application, NursePro: NCLEX-RN (the "App").
